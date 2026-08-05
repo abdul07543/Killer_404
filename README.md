@@ -1,7 +1,7 @@
 # Killer
 
 <p align="center">
-  <img src="https://github.com/abdul07543.png?size=200" alt="Killer's Profile Picture" width="160" style="border-radius:50%;"/>
+  <img src="https://github.com/abdul07543.png?size=200" alt="Profile avatar for Killer" width="160" style="border-radius:50%;"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/App%20Development-00BFA5?style=for-the-badge&logo=appveyor&logoColor=white" alt="App Development"/>
-  <img src="https://img.shields.io/badge/Let's%20Connect-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Connect"/>
+  <!-- Add license/build/test badges when available -->
 </p>
 
 ## About Me
@@ -35,6 +35,7 @@ Hi — I'm Killer, a curious and dedicated developer focused on crafting clean, 
   - Python
   - HTML5
   - CSS3
+  - (Add frameworks / libraries you use: Flask, Django, React, Bootstrap, etc.)
 
 - Expertise
   - App development (mobile & desktop)
@@ -43,18 +44,48 @@ Hi — I'm Killer, a curious and dedicated developer focused on crafting clean, 
 
 ## Projects
 
-- Killer_404 — Personal showcase repository.
-- (Add your projects here with short descriptions and links.)
+- Killer_404 — Personal showcase repository. (This README is here)
+- Example Project 1 — short description (link)
+  - Tech: Python, Flask — what it does and how to run: `python app.py` (or steps)
+- Example Project 2 — short description (link)
+  - Tech: HTML/CSS/JS — hosted at: https://example.com
+
+(Add each project with 1–2 lines describing purpose, main tech, and a link or run instructions.)
+
+## How to run / Demo
+
+For each project include a short "Quick start" (example):
+
+- Clone the repo
+- Create a virtualenv: `python -m venv venv && source venv/bin/activate`
+- Install: `pip install -r requirements.txt`
+- Run: `python app.py`
+- Visit: `http://localhost:5000`
+
+(Adjust per project.)
 
 ## Contact
 
 - GitHub: [@abdul07543](https://github.com/abdul07543)
-- Email: (add your email here)
+- Email: your-email@example.com (add your actual email)
+- LinkedIn: https://www.linkedin.com/in/your-profile (optional)
+- Twitter/X: https://twitter.com/your-handle (optional)
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul07543&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+
+## Contributing
+
+Contributions, suggestions and improvements are welcome — feel free to open issues or submit pull requests.
+
+## License
+
+Add a license file (e.g., MIT). Example badge:
+- ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul07543&show_icons=true&theme=tokyonight" alt="Killer's GitHub stats"/>
-</p>
-
-<p align="center">Made with ❤️ — keep building.</p>
+Made with ❤️ — keep building.
